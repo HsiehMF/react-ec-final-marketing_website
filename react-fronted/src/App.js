@@ -1,13 +1,13 @@
 import React from 'react'
 import './App.css';
-import Header from './component/Header';
 import { Route } from 'react-router-dom';
+import Header from './component/Header';
 import Shopcart from './pages/Shopcart';
 import Store from './pages/Store';
 import Order from './pages/Order';
 import About from './pages/About';
 import Login from './pages/Login';
-import Home from './pages/Home';
+import Home from './pages/Home/Home';
 
 class App extends React.Component {
   render() {
