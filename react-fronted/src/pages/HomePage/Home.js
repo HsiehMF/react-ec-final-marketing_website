@@ -1,6 +1,6 @@
 import React from 'react';
 import home_pic from '../../assets/img/home_pic.jpg';
-import styles from './home.module.scss';
+import styles from './index.module.scss';
 import Cooperation from './Cooperation'
 
 export default function Home() {

@@ -5,7 +5,7 @@ import logo_taiShing from '../../assets/img/logo_taiShing.jpg';
 import logo_wanBing from '../../assets/img/logo_wanBing.jpg';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
-import styles from './home.module.scss';
+import styles from './index.module.scss';
 
 const storeData = [
     {
